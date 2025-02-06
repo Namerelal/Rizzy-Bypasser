@@ -1,7 +1,7 @@
 --[[
 I DID NOT MAKE THIS ORIGINAL POST HERE https://scriptblox.com/script/Universal-Script-Rizzler-Bypasser-28663 Ria Executor: https://discord.gg/8mmt6PMCum
 ]]
-game.StarterGui:SetCore("SendNotification",{Text="Welcome to Rizzler Bypass", Title="Made by Venom Cat"})
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TextChatService = game:GetService("TextChatService")
